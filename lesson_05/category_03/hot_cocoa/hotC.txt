@@ -1,1 +1,12 @@
+mug
+milk
+cocoa powder
+sugar
+marshmallows
 
+Heat the milk
+Pour the milk into the mug
+Add cocoa powder and sugar
+Stir until smooth
+Add marshmallows
+Serve warm
